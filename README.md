@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmreBayramoglu
-- 👀 I’m interested in Pyhton.
-- 🌱 I’m currently learning Pyhton.
+- 👀 I’m interested in Java.
+- 🌱 I’m currently learning Java.
 - 📫 Mail: emrebayramoglu@yaani.com
 -    İnstagram: emrebayramoglu_
 -    Linkedin:emrebayramoglu
