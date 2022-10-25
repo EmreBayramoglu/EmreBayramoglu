@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmreBayramoglu
-- 👀 I’m interested in Java.
-- 🌱 I’m currently learning Java.
+- 👀 I’m interested in JavaScript.
+- 🌱 I’m currently learning JavaScript.
 - 📫 Mail: emrebayramoglu@yaani.com
 -    İnstagram: emrebayramoglu_
 -    Linkedin:emrebayramoglu
