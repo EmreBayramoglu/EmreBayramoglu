@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JavaScript.
 - 📫 Mail: emrebayramoglu@yaani.com
 -    İnstagram: emrebayramoglu_
--    Linkedin:emrebayramoglu
+-    https://www.linkedin.com/in/emre-bayramo%C4%9Flu-b87a42157/
 
 <!---
 EmreBayramoglu/EmreBayramoglu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
